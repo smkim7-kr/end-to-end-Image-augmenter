@@ -15,7 +15,7 @@ The program inputs four information:
 * Image size wanted: Expected augmented Image size in pixel (width=height)
 * How many augmentations per image?: Number of augmentations per *original* images
 
-![terminal](C:\Users\82103\Desktop\Github\crawler\img\terminal.PNG)
+![terminal](\img\terminal.PNG)
 
 After the program has been executed. two directories `augimg`  and  `img` directories will be created in C: drive.
 
@@ -40,11 +40,11 @@ C:
 
 **Original Image**
 
-![original](C:\Users\82103\Desktop\Github\crawler\img\original.png)
+![original](\img\original.png)
 
 **Examples of randomly augmented images with 224px fixed size**
 
-![original](C:\Users\82103\Desktop\Github\crawler\img\aumented.png)
+![original](\img\aumented.png)
 
 
 
