@@ -15,7 +15,7 @@ The program inputs four information:
 * Image size wanted: Expected augmented Image size in pixel (width=height)
 * How many augmentations per image?: Number of augmentations per *original* images
 
-![terminal](img\terminal.PNG)
+![terminal](img\terminal.PNG?raw=true)
 
 After the program has been executed. two directories `augimg`  and  `img` directories will be created in C: drive.
 
@@ -40,11 +40,11 @@ C:
 
 **Original Image**
 
-![original](img\original.png)
+![original](img\original.png?raw=true)
 
 **Examples of randomly augmented images with 224px fixed size**
 
-![original](img\aumented.png)
+![original](img\aumented.png?raw=true)
 
 
 
